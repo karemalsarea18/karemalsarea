@@ -101,10 +101,19 @@ margin-right: 3cm;
     margin-right: 0cm;
     }
     .body{
+        display: contents;
         justify-content: center;
         align-items: center;
-width: 98%;
+width: 100%;
     }
+    .card{
+        background-color: rgb(44, 44, 44);
+        width: 99%;
+        margin-right: 3cm;
+}
+
+.navbar {
+    width: 100%;
 }
 .to{
    
