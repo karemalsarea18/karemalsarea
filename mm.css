@@ -42,8 +42,8 @@ background-color: rgb(255, 208, 0);
 
 .card{
 background-color: rgb(44, 44, 44);
-width: 98%;
-margin-right: 3cm;
+width: 100%;
+margin-right: 2cm;
 }
  .ca .card h5{
     color: rgb(255, 208, 0);
@@ -101,19 +101,15 @@ margin-right: 3cm;
     margin-right: 0cm;
     }
     .body{
-        display: contents;
         justify-content: center;
         align-items: center;
-width: 100%;
-    }
-    .card{
-        background-color: rgb(44, 44, 44);
-        width: 99%;
-        margin-right: 3cm;
-}
 
-.navbar {
-    width: 100%;
+        width: 100vh;
+    }
+    .navbar{
+
+        width: 101%;
+    }
 }
 .to{
    
