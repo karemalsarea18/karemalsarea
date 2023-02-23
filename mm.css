@@ -1,0 +1,160 @@
+.navbar {
+    display: flex;
+     justify-content: space-between;
+    justify-content:start;
+    align-items: center;
+    list-style: none;
+   background-image: url(ee.png);
+  
+}
+.navbar .row{
+    margin-right: 2cm;
+    font-size: 19px;
+    
+}
+.navbar img{
+    margin-right: 3cm;
+
+}
+.navbar .row li a.nav{
+   color: rgb(255, 208, 0);
+    margin-right: 3cm;
+}
+.navbar .row li :hover{
+
+color: rgb(0, 0, 0);
+background-color: rgb(255, 208, 0);
+}
+.afe{
+  font-size: 20px;
+}
+
+.card{
+background-color: rgb(44, 44, 44);
+width: 100%;
+}
+ .ca .card h5{
+    color: rgb(255, 208, 0);
+}
+.container .card{
+background: #fff;
+cursor: pointer;
+}
+.container .card a {
+    text-decoration: none;
+    list-style: none;
+    font-size: 15px;
+    color: #000;
+}
+.container .card h3:hover{
+
+ color:   rgb(255, 208, 0);
+
+
+
+}
+.btn{
+    display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 13cm;
+
+}
+
+.container.col-lg-4 {
+background-color: rgba(212, 212, 212, 0.87);
+
+
+}
+
+.img{ 
+    justify-content: center;
+    align-items: center;
+padding: 10px;
+background-color:  rgb(255, 208, 0);
+ width: 30cm;
+ height: 230px;
+
+}
+
+.to{
+   
+    justify-content: center;
+    align-items: center;
+   justify-content:flex-end;
+width: 100%;
+height: 170px;
+background-color: rgb(255, 208, 0);
+}
+.to h3{
+
+display:flex;
+margin-right :30px;
+
+}
+
+.to h5 {
+    padding: 10px;
+    display: flex;
+font-size: 10px;
+    margin-left: 13cm;
+    
+    }
+    .aicon{
+
+display: flex;
+        justify-content: center;
+        align-items: center;
+       justify-content:flex-start;
+
+
+
+    }
+
+.wa{ 
+    margin:10px 10px;
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 500px;
+ background-image:url(wa.jpg) ;
+ color: rgb(255, 255, 255);
+}
+.fa{ 
+    padding: 10px 10px;
+    width: 65px;
+    height: 65px;
+    border-radius: 500px;
+ background-image:url(fe.jpg) ;
+ color: rgb(255, 255, 255);
+}
+.in{ 
+    margin:10px 10px;
+    padding: 10px 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 500px;
+ background-image:url(in.jpg) ;
+ color: rgb(255, 255, 255);
+}
+.tw{ 
+    margin:10px 10px;
+
+    padding: 10px 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 500px;
+ background-image:url(tw.jpg) ;
+ color: rgb(255, 255, 255);
+}
+.yo{ 
+    margin:10px 10px;
+    padding: 10px 10px;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 500px;
+ background-image:url(yo.jpg) ;
+ color: rgb(255, 255, 255);
+
+}
